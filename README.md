@@ -1,2 +1,2 @@
-GIT and GITHUB WORKSHOP
+GIT WORLD
 Due Date Today
