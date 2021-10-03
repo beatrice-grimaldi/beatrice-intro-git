@@ -1,2 +1,2 @@
-GIT and GITHUB WORKSHOP
+WORKSHOP
 Due Date Today
